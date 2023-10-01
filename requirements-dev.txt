@@ -1,4 +1,4 @@
 pre-commit>=2.18.1,<4
 isort==5.12.0
-black==23.3.0
+black==23.9.1
 flake8==6.0.0
